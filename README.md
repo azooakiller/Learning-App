@@ -14,7 +14,7 @@ Here's the expanded version:
 
 ---
 
-**LearnFlow — E-Learning Platform | Internship Project Summary**
+*LearnFlow — E-Learning Platform | Internship Project Summary**
 
 **What Is This Project?**
 
